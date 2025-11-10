@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wordix Game</string>
+    <string name="unlimited_mode">Unlimited Mode</string>
+    <string name="daily_challenge">Daily Challenge</string>
+    <string name="view_history">View History</string>
+    <string name="no_games_yet">No games played yet</string>
+    <string name="all_games">All Games</string>
+    <string name="unlimited">Unlimited</string>
+    <string name="daily">Daily</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="statistics">Statistics</string>
+    <string name="total_games">Total Games</string>
+    <string name="total_wins">Total Wins</string>
+    <string name="win_rate">Win Rate</string>
+
+    <!-- Messages -->
+    <string name="syncing">Syncing with cloud…</string>
+    <string name="sync_complete">Sync complete!</string>
+    <string name="word_definition">Definition:</string>
+</resources>
