@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Wordix Game</string>
+    <string name="app_name">WORDIX</string>
+    <string name="unlimited_mode">🎮 Unlimited Mode</string>
+    <string name="daily_challenge">⭐ Daily Challenge</string>
+    <string name="view_history">📊 View History</string>
+    <string name="my_profile">👤 My Profile</string>
+    <string name="tagline">Guess the Word, Win the Game</string>
+
+    <!--<string name="app_name">Wordix Game</string>
     <string name="unlimited_mode">Unlimited Mode</string>
     <string name="daily_challenge">Daily Challenge</string>
-    <string name="view_history">View History</string>
+    <string name="view_history">View History</string>-->
+
     <string name="no_games_yet">No games played yet</string>
     <string name="all_games">All Games</string>
     <string name="unlimited">Unlimited</string>
